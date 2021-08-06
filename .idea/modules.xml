@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AeG2(1)/src/VetorExemplo.java/AeG2.iml" filepath="$PROJECT_DIR$/AeG2(1)/src/VetorExemplo.java/AeG2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AeG2(1)/AeG2(1).iml" filepath="$PROJECT_DIR$/AeG2(1)/AeG2(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EstruturaDeDados.iml" filepath="$PROJECT_DIR$/.idea/EstruturaDeDados.iml" />
+    </modules>
+  </component>
+</project>
