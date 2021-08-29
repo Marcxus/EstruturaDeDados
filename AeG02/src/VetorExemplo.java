@@ -6,11 +6,11 @@ import java.util.Random;
 public class VetorExemplo {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        
+
         System.out.println("Digite 1 para o primeiro exemplo ou 2 para o segundo");
-        
+
         int esc = scan.nextInt();
-        
+
         switch (esc) {
             case 1:
                 primeiroExemplo();
@@ -20,6 +20,8 @@ public class VetorExemplo {
                 break;
         }
     }
+
+
     
     public static void primeiroExemplo() {
         Scanner scan = new Scanner(System.in);
